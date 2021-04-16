@@ -1,0 +1,12 @@
+.room{
+    height: 100vh;
+
+} 
+.lit {
+    background-color: whitesmoke;
+    color: black;
+}
+.dark {
+    background-color: black;
+    color: whitesmoke;
+}
